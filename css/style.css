@@ -319,7 +319,7 @@ section.raboti{
    font-weight: bold;
    font-size: 36px;
    line-height: 53px;
-   width: 504px;
+   max-width: 504px;
    padding-bottom:15px ;
 }
 
