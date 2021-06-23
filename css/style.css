@@ -219,6 +219,11 @@ section.standarti{
    margin-bottom: 70px;
 }
 
+/* отступ для маленьких экранов */
+.standarti_levo{
+   margin-bottom: 70px;
+}
+
 /* заголовок левого блока */
 .standarti_title{
    color: #323232;
